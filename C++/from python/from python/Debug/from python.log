@@ -1,0 +1,5 @@
+﻿  from python.cpp
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\from python\from python\from python.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GENERATOR.cpp
+  Generating Code...
+  from python.vcxproj -> D:\_ME\__SCHOOL__\Upper\Programowanie\C++\from python\Debug\from python.exe

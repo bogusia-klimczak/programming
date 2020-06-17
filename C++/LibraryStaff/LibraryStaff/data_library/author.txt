@@ -1,0 +1,1 @@
+id:firstName:lastName:dataOfBirth:dataOfDeath:book1|book2|...|bookN;

@@ -1,0 +1,11 @@
+﻿  BOOK.cpp
+  CD.cpp
+  LibraryStaff.cpp
+  MATERIAL.cpp
+  my_functions.cpp
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\LibraryStaff\LibraryStaff\my_functions.cpp(116,21): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  NEWSPAPER.cpp
+  STUFF.cpp
+  user.cpp
+  Generating Code...
+  LibraryStaff.vcxproj -> D:\_ME\__SCHOOL__\Upper\Programowanie\C++\LibraryStaff\x64\Debug\LibraryStaff.exe

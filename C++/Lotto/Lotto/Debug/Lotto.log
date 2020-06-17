@@ -1,0 +1,6 @@
+﻿  Kupon.cpp
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\Lotto\Lotto\Kupon.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\Lotto\Lotto\Kupon.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lotto.cpp
+  Generating Code...
+  Lotto.vcxproj -> D:\_ME\__SCHOOL__\Upper\Programowanie\C++\Lotto\Debug\Lotto.exe

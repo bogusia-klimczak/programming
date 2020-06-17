@@ -1,0 +1,4 @@
+﻿  FunctionWithArgument.cpp
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\FunctionWithArgument\FunctionWithArgument\FunctionWithArgument.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+d:\_ME\__SCHOOL__\Upper\Programowanie\C++\FunctionWithArgument\FunctionWithArgument\FunctionWithArgument.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  FunctionWithArgument.vcxproj -> D:\_ME\__SCHOOL__\Upper\Programowanie\C++\FunctionWithArgument\Debug\FunctionWithArgument.exe
