@@ -1,0 +1,47 @@
+[
+    {
+        "#": 1,
+        "name": "id",
+        "type": "int",
+        "null": "no",
+        "default": "none",
+        "auto_increment": "yes",
+        "primary_key": "yes"
+    },
+    {
+        "#": 2,
+        "name": "username",
+        "type": "varchar(1000)",
+        "null": "no",
+        "default": "none",
+        "auto_increment": "no",
+        "primary_key": "no"
+    },
+    {
+        "#": 3,
+        "name": "password",
+        "type": "varchar(1000)",
+        "null": "no",
+        "default": "none",
+        "auto_increment": "no",
+        "primary_key": "no"
+    },
+    {
+        "#": 4,
+        "name": "salt",
+        "type": "varchar(1000)",
+        "null": "no",
+        "default": "none",
+        "auto_increment": "no",
+        "primary_key": "no"
+    },
+    {
+        "#": 5,
+        "name": "gamedata",
+        "type": "varchar(1000)",
+        "null": "no",
+        "default": "none",
+        "auto_increment": "no",
+        "primary_key": "no"
+    }
+]

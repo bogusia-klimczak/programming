@@ -1,0 +1,44 @@
+[
+    {
+        "gender": "male",
+        "id": 1,
+        "lvl": 1,
+        "password": "665544$%^",
+        "username": "albdarion"
+    },
+    {
+        "gender": "male",
+        "id": 2,
+        "lvl": 1,
+        "password": "HelloWorld!",
+        "username": "Ender01"
+    },
+    {
+        "gender": "male",
+        "id": 4,
+        "lvl": 1,
+        "password": "helloworld",
+        "username": "delasor"
+    },
+    {
+        "gender": "male",
+        "id": 5,
+        "lvl": 1,
+        "password": "helloworld!",
+        "username": "33645"
+    },
+    {
+        "gender": "male",
+        "id": 6,
+        "lvl": 1,
+        "password": "helloworld!",
+        "username": "adroitpoppy"
+    },
+    {
+        "gender": "male",
+        "id": 7,
+        "lvl": 1,
+        "password": "helloworld!",
+        "username": "tymek"
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "columns_data": [
+        {
+            "#": 1,
+            "auto_increment": true,
+            "default": null,
+            "name": "id",
+            "null": false,
+            "primary_key": true,
+            "type": "int"
+        },
+        {
+            "#": 2,
+            "auto_increment": false,
+            "default": null,
+            "name": "username",
+            "null": false,
+            "primary_key": false,
+            "type": "varchar(1000)"
+        },
+        {
+            "#": 3,
+            "auto_increment": false,
+            "default": null,
+            "name": "password",
+            "null": false,
+            "primary_key": false,
+            "type": "varchar(1000)"
+        },
+        {
+            "#": 4,
+            "auto_increment": false,
+            "default": "male",
+            "name": "gender",
+            "null": false,
+            "primary_key": false,
+            "type": "varchar(1000)"
+        },
+        {
+            "#": 5,
+            "auto_increment": false,
+            "default": 1,
+            "name": "lvl",
+            "null": false,
+            "primary_key": false,
+            "type": "int"
+        }
+    ],
+    "last_auto_inc_val": 7
+}

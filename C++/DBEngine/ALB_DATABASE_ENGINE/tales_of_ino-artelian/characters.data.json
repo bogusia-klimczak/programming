@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "username": "michael",
+        "password": "delasor",
+        "salt": "none",
+        "gamedata": {}
+    }
+]
