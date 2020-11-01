@@ -1,5 +1,6 @@
 from random import randint
 
+
 def main_menu():
     print("------------------")
     print("MAIN MENU")
@@ -12,6 +13,7 @@ def main_menu():
     print("4 - to show list")
     print("e - to end the program")
     print("------------------")
+
 
 def generate_random_list():
     n = input("Enter number of elements: ")
@@ -31,6 +33,7 @@ def generate_random_list():
 
     return m_list
 
+
 def generate_fill_list():
     n = input("Enter number of elements: ")
 
@@ -48,12 +51,14 @@ def generate_fill_list():
 
     return m_list
 
+
 def get_average(m_list):
     sum = 0
     for elem in m_list:
         sum += elem
-    
+
     return (sum / len(m_list))
+
 
 def get_mediana(m_list):
     l_len = len(m_list)
@@ -67,8 +72,9 @@ def get_mediana(m_list):
         b = m_list[int(len(m_list) / 2)]
 
         res = (a + b) / 2
-    
+
     return res
+
 
 key = ""
 _list = []
